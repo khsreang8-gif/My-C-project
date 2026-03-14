@@ -1,5 +1,13 @@
 #include <stdio.h>
 int main() {
-	printf("Hillo, World!\n");
+	int age = 20;
+	float height = 1.70;
+	char grade = 'A';
+
+	printf("Age: %d\n", age);
+	printf("Height: %.2f\n", height);
+	printf("Grade: %c\n", grade);
+	
+	getchar();
 	return 0;
 }
