@@ -37,9 +37,8 @@ void greet() {
 int main() {
 	greet();
 	printf("Add: %d\n", add(4, 6));
-	printf("Multiply: %d\n", multiply(4, 6));	
-
-
+	printf("Multiply: %d\n", multiply(4, 6));
+	
 return 0;	
 	
 }
