@@ -19,11 +19,11 @@ int main() {
 		printf("Number: %d\n", i);
 	}*/
 	
-/*	int i;
+	int i;
 	
 	for (i = 0; i <= 10; i = i+2) {
 		printf("Number: %d\n", i);
-	}*/
+	}
 	return 0;
 	
 }
